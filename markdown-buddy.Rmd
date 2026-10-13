@@ -1,0 +1,13 @@
+title: "Markdown Buddy Assignment"
+author: "Fares Al Fares"
+date: "r Sys.Date()"
+output: html_document
+---
+
+# Introduction
+Welcome to the Markdown Buddy demonstration file.
+
+## Student Details
+- *Student Name:* Fares Al Fares
+- *Course:* BDA400 - Data Science Tools
+- *Assignment:* Assignment 1: Markdown Buddy
